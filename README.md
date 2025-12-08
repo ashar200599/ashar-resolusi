@@ -1,2 +1,2 @@
 # ashar-resolusi
-Repo untuk  belajara github
+Repo untuk  belajar github
