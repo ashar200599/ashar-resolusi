@@ -1,2 +1,2 @@
 # ashar-resolusi
-Repo untuk  plan ke depannya
+Repo untuk  belajara github
